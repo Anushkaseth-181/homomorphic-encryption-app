@@ -1,0 +1,4 @@
+streamlit
+pyfhel
+phe
+pycryptodome
